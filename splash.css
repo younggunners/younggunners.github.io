@@ -13,4 +13,20 @@ html, body {
 	position: fixed;
 	bottom: 0;
 	width: 100%;
+	height: 80px;
+}
+
+#welcome span {
+	margin-left: .5%;
+	font-size: 48px;
+	font-weight: bold;
+	margin-top: 0px;
+	padding-top: 0px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#welcome img {
+	height: 80px;
+	float: left;
+	margin-left: 18%;
 }
