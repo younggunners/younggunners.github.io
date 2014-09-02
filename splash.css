@@ -1,12 +1,15 @@
 html, body {
 	margin: 0px;
 	padding: 0px;
+	color: white;
 }
 
 #splash {
-	background: rgb(47, 5, 90);
-	margin: 0px;
-	padding: 0px;
+	background: url('splash.jpg');
+	position: relative;
+	margin-top: -140px;
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 #welcome {
@@ -37,4 +40,9 @@ html, body {
 
 #enter {
 	display: inline;
+	font-size: 15px;
+	color: rgb(201,196,196);
+	background: rgb(47, 5, 90);
+	border: none;
+	margin-left: 20px;
 }
