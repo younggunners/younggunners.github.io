@@ -46,3 +46,8 @@ html, body {
 	border: none;
 	margin-left: 20px;
 }
+
+#home {
+	background: url('home.jpg');
+	background-size: 100%;
+}
