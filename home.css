@@ -10,4 +10,11 @@
 
 #navb {
 	background: rgb(47, 5, 90);
+	overflow: auto;
+	height: 70px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
 }
