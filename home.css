@@ -10,6 +10,10 @@
 	border-radius: 0px 5px 5px 0px;
 }
 
+.navbar-inner {
+	border-color: rgba(47, 5, 90, 0);
+}
+
 .navbar-inverse .navbar-inner, .container  {
 	background: rgba(47, 5, 90, 0);
 }
