@@ -38,5 +38,9 @@ background-color: #FF2200;
 
 .ui-link {
 	color: white;
-	margin: 2em;
+}
+
+.nav li {
+	margin-left: 1em;
+	margin-right: 1em;
 }
