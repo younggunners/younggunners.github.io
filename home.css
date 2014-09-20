@@ -3,6 +3,7 @@
 	float: left;
 	margin-top: 3%;
 	background: rgb(47, 5, 90);
+	border-radius: 0px 5px 5px 0px;
 }
 
 .navbar-inverse .navbar-inner, .container  {
