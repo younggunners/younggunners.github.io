@@ -41,8 +41,8 @@ body {
 }
 
 .navbar-inverse .nav .active>a, .navbar-inverse .nav .active>a:hover, .navbar-inverse .nav .active>a:focus {
-color: #fff;
-background-color: #FF2200;
+	color: #fff;
+	background-color: #FF2200;
 }
 
 .ui-link {
