@@ -8,6 +8,6 @@ window.onload = function() {
 function changeActive() {
 	this.parentNode.addClassName("active");
 	var activeNav = document.getElementsByClassName("active");
-	alert(activeNav);
+	alert(activeNav + "2");
 	activeNav[0].removeClassName("active");
 }
