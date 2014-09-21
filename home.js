@@ -7,10 +7,7 @@ window.onload = function() {
 }
 
 function changeActive() {
-	this.removeClassName("navElements");
-	this.addClassName("active");
-	
+	this.parentNode.addClassName("active");
 	var activeNav = document.getElementsByClassName("active");
-	activeNav[0].addClassName("navElements");
-	activeNav[0].removeClassName("navElements");
+	activeNav[0].removeClassName("active");
 }
