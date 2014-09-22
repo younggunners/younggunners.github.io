@@ -5,8 +5,11 @@
 #all-profiles {
 	z-index: 1000;
 	padding-top: 10%;
-	margin-left: 13%;
 	clear: both;
+}
+
+#col1{
+	margin-left: 13%;
 }
 
 #2 {
