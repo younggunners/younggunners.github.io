@@ -4,8 +4,9 @@
 
 #all-profiles {
 	z-index: 1000;
-	margin-top: 10%;
+	padding-top: 10%;
 	margin-left: 13%;
+	clear: both;
 }
 
 #2 {
