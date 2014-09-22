@@ -1,5 +1,5 @@
 #Players {
-	color: #FF2200;
+	
 }
 
 #all-profiles {
@@ -12,6 +12,14 @@
 	margin-left: 13%;
 }
 
-#2 {
-	
+#kv2 {
+	float: left;
+}
+
+.data {
+	color: #FF2200;
+}
+
+.category {
+	color: gray;
 }
