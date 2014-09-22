@@ -62,3 +62,7 @@ html, body {
 	padding: 0px;
 	overflow-x: auto;
 }
+
+#News {
+	background: url('News.jpg');
+}
