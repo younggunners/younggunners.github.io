@@ -10,6 +10,7 @@
 
 #col1, #col2, #col3 {
 	float: left;
+	width: 19em;
 }
 
 #col1, #col2{
