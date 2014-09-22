@@ -8,11 +8,15 @@
 	clear: both;
 }
 
+#col1, #col2, #col3 {
+
+}
+
 #col1{
 	margin-left: 13%;
 }
 
-#kv2 {
+#kv2, #pv16 {
 	float: left;
 	margin-right: 1em;
 }
