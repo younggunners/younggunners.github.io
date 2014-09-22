@@ -8,6 +8,11 @@
 	clear: both;
 }
 
+#all-profiles img {
+	width: 100px;
+	height: 110px;
+}
+
 #col1, #col2, #col3 {
 	float: left;
 	width: 22%;
