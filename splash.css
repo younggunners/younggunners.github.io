@@ -59,4 +59,5 @@ html, body {
 	background-repeat: repeat-x repeat-y;
 	margin: 0px;
 	padding: 0px;
+	overflow-x: auto;
 }
