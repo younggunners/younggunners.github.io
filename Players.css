@@ -12,23 +12,17 @@
 #all-profiles img {
 	width: 100px;
 	height: 110px;
+	float: left;
+	margin-right: 1em;
 }
 
 #col1, #col2, #col3 {
 	float: left;
 	width: 22%;
-}
-
-#col1, #col2, #col3{
 	margin-left: 8%;
 }
 
-#kv2, #pm16, #ss23 {
-	float: left;
-	margin-right: 1em;
-}
-
-#p2, #p16, #p23 {
+#p2, #p16, #p23, #p11 {
 	margin-bottom: 3em;
 }
 
