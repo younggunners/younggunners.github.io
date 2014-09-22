@@ -56,7 +56,7 @@ html, body {
 	background: url('Players.jpg');
 	background-size: 100%;
 	overflow: scroll;
-	background-repeat: repeat-x;
+	background-repeat: repeat-x repeat-y;
 	margin: 0px;
 	padding: 0px;
 }
