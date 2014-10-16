@@ -6,3 +6,25 @@ body {
     background-size: cover;
     overflow: hidden;
 }
+
+p {
+    font-size: 2em;  
+    display: inline;
+}
+
+.navbar {
+	display: inline-block;
+	float: left;
+	margin-top: 3%;
+	background: rgba(47, 5, 90, 1);
+    border: none;
+}
+
+a:link {
+    color: white;
+    font-family: serif;
+}
+
+.navbar img{
+    max-width: 4em;
+}
