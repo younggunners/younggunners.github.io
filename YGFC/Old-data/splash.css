@@ -1,0 +1,70 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	color: white;
+	text-shadow: none;
+}
+
+#splash {
+	background: url('splash.jpg');
+	position: relative;
+	margin-top: -140px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#welcome {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 106px;
+	background: rgb(47, 5, 90);
+	color: white;
+	border: none;
+	
+}
+
+#welcome span {
+	margin-left: .5%;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 94px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#welcome img {
+	height: 100px;
+	float: left;
+	margin-right: 1em;
+	margin-left: 18%;
+}
+
+#enter {
+	display: inline;
+	font-size: 15px;
+	color: rgb(201,196,196);
+	background: rgb(47, 5, 90);
+	border: none;
+	margin-left: 20px;
+}
+
+#home {
+	background: url('home2.jpg');
+	background-size: 100%;
+}
+
+#Players {
+	background: url('Players.jpg');
+	background-size: 100%;
+	overflow: scroll;
+	background-repeat: repeat-x repeat-y;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: auto;
+}
+
+#News {
+	background: url('News.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
